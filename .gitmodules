@@ -7,3 +7,6 @@
 [submodule "Seal.SC.Ont"]
 	path = Seal.SC.Ont
 	url = https://github.com/SealSC/Seal.SC.Ont.git
+[submodule "Seal.SC.Trx"]
+	path = Seal.SC.Trx
+	url = https://github.com/SealSC/Seal.SC.Trx.git
