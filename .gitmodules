@@ -1,3 +1,6 @@
 [submodule "Seal.SC.Eth"]
 	path = Seal.SC.Eth
 	url = https://github.com/SealSC/Seal.SC.Eth.git
+[submodule "Seal.SC.Eos"]
+	path = Seal.SC.Eos
+	url = https://github.com/SealSC/Seal.SC.Eos.git
