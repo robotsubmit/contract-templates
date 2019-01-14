@@ -24,6 +24,8 @@ There are too may blockchains currently. Developers are hard to choose one of th
 
 # Resources
 
+## Platform
+
 Platforms supported by SealSC:
 
 |Platform |smart contract | Support|
