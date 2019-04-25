@@ -13,3 +13,6 @@
 [submodule "smart-contracts-ethereum"]
 	path = smart-contracts-ethereum
 	url = https://github.com/SealSC/smart-contracts-ethereum.git
+[submodule "smart-contracts-tron"]
+	path = smart-contracts-tron
+	url = https://github.com/SealSC/smart-contracts-tron.git
