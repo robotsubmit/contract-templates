@@ -19,3 +19,6 @@
 [submodule "smart-contracts-ontology"]
 	path = smart-contracts-ontology
 	url = https://github.com/SealSC/smart-contracts-ontology.git
+[submodule "smart-contracts-eos"]
+	path = smart-contracts-eos
+	url = https://github.com/SealSC/smart-contracts-eos.git
