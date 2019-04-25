@@ -37,21 +37,21 @@ Platforms supported by SealSC:
 
 ## Smart contracs
 
-#### [Seal.SC.Eth](https://github.com/SealSC/Seal.SC.Eth)
+#### [smart-contracts-ethereum](https://github.com/SealSC/smart-contracts-ethereum)
 
-ESeal.SC.Eth is a Ethereum contract repo that contains all of contracts wrote by Ethereum Solidity.
+smart-contracts-ethereum is a Ethereum contract repo that contains all of contracts wrote by Ethereum Solidity.
 
-#### [Seal.SC.Eos](https://github.com/SealSC/Seal.SC.Eos)
+#### [smart-contracts-eos](https://github.com/SealSC/smart-contracts-eos)
 
-Seal.SC.Eos is  EOS contract repo that contains all of contracts wrote by EOS WASM.
+smart-contracts-eos is  EOS contract repo that contains all of contracts wrote by EOS WASM.
 
-#### [Seal.SC.Ont](https://github.com/SealSC/Seal.SC.Ont)
+#### [smart-contracts-ontology](https://github.com/SealSC/smart-contracts-ontology)
 
-Seal.SC.Ont is Ontology contract repo that contains all of contracts wrote by NEO contract.
+smart-contracts-ontology is Ontology contract repo that contains all of contracts wrote by NEO contract.
 
-#### [Seal.SC.Trx](https://github.com/SealSC/Seal.SC.Trx)
+#### [smart-contracts-tron](https://github.com/SealSC/smart-contracts-tron)
 
-Seal.SC.Trx is Tron contract reposthat contains all of contracts wrote by Trx Solidity.
+smart-contracts-tron is Tron contract reposthat contains all of contracts wrote by Trx Solidity.
 
 # License
 
