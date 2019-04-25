@@ -9,7 +9,7 @@
 > It provides customized implementations of contracts which you can deploy as-is your needs. 
 > You can build decentralized systems cross-chains with it.
 
-More details can be found in [Seal.Specs](https://github.com/SealSC/Seal.Specs).
+More details can be found in [seal-specs](https://github.com/SealSC/https://github.com/SealSC/seal-specs.git).
 
 # Introduction
 
