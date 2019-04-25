@@ -10,3 +10,6 @@
 [submodule "Seal.SC.Trx"]
 	path = Seal.SC.Trx
 	url = https://github.com/SealSC/Seal.SC.Trx.git
+[submodule "smart-contracts-ethereum"]
+	path = smart-contracts-ethereum
+	url = https://github.com/SealSC/smart-contracts-ethereum.git
